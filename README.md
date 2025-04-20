@@ -3,6 +3,6 @@ A resume matching system using Named Entity Recognition (NER) to extract key inf
 ##### AlL code related to Model training and Finetuning is in Colab_File.
 
 # Download Model from the link : https://drive.google.com/drive/folders/1e8tH0fb6M9zbLIw5LNcLvAUhZfS8egqZ?usp=sharing
-##### Keep the folder structure same just unzip model file.
+##### Keep the folder structure same just unzip and add model file.
 ##### Run app.py in terminal.
 
